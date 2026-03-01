@@ -1,0 +1,5 @@
+{
+  "name": "Industrial AI Data Collector",
+  "description": "A data collection application simulating a Cloud Run service receiving MQTT data via Pub/Sub from EMQX Cloud.",
+  "requestFramePermissions": []
+}
